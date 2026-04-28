@@ -1,7 +1,0 @@
-flask
-flask-smorest
-flask-jwt-extended
-flask-sqlalchemy
-python-dotenv
-
-#python -m unittest discover -s tests -p test_auth.py -v this code is for testing

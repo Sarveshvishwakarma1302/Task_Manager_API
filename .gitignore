@@ -1,6 +1,7 @@
 # env files
 .env
-.env.*
+.env.local
+.env.production
 
 # python cache
 __pycache__/
@@ -10,8 +11,15 @@ __pycache__/
 instance/
 *.db
 
+# logs
+*.log
+
 # virtual env
 venv/
 
 # VS Code
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
