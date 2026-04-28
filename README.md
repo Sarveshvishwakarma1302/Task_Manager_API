@@ -45,6 +45,7 @@ It supports authentication, task assignment, role-based access control, dashboar
 
 # Project Structure
 
+
 Task_Manager/
 │
 ├── models/ # Database models
@@ -56,6 +57,7 @@ Task_Manager/
 └── .gitignore
 
 API Endpoints
+
 Auth
 POST /register → Register user
 POST /login → Login user
